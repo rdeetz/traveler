@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  country: MyText
+  raw_city: MyText
+  city: MyText
+  region: MyText
+  population: 1
+  latitude: 1.5
+  longitude: 1.5
+
+two:
+  id: 1
+  country: MyText
+  raw_city: MyText
+  city: MyText
+  region: MyText
+  population: 1
+  latitude: 1.5
+  longitude: 1.5
