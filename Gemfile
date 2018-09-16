@@ -13,6 +13,8 @@ gem 'puma', '~> 3.11'
 gem 'elasticsearch', '~> 6.1'
 # Use Webpacker
 gem 'webpacker', '~> 3.5'
+# Use Faraday
+gem 'faraday', '~> 0.15'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets

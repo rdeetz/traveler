@@ -215,6 +215,7 @@ DEPENDENCIES
   chromedriver-helper
   coffee-rails (~> 4.2)
   elasticsearch (~> 6.1)
+  faraday (~> 0.15)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   pg (~> 1.0)
