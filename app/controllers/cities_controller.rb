@@ -67,7 +67,7 @@ class CitiesController < ApplicationController
       @city = City.find(params[:id])
     end
 
-    # Never trust parameters from the scary internet, only allow the white list through.
+    # Never trust parameters from the scary internet, only allow the allow list through.
     def city_params
       params.require(:city).permit(:id, :country, :raw_city, :city, :region, :population, :latitude, :longitude)
     end
