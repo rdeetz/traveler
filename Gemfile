@@ -9,6 +9,10 @@ gem 'rails', '~> 5.2.0'
 gem 'pg', '~> 1.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
+# Use Elasticsearch
+gem 'elasticsearch', '~> 6.1'
+# Use Webpacker
+gem 'webpacker', '~> 3.5'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
