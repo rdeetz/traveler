@@ -6,8 +6,8 @@ Discover cities around the world.
 
 Install these things:
 
-* Ruby 2.6
-* Rails 5.2.2
+* Ruby 2.6.2
+* Rails 5.2.3
 * React 16.5
 * PostgreSQL 10.6
-* Elasticsearch 6.5
+* Elasticsearch 6.7
