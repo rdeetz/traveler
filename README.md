@@ -4,11 +4,9 @@ Discover cities around the world.
 
 ## Getting Started
 
-Install these things:
+Install these:
 
-* Ruby 2.6.2
+* Ruby 2.6.3
 * Rails 5.2.3
-* Webpack 4
-* React 16.8
-* PostgreSQL 10.6
-* Elasticsearch 6.7
+* PostgreSQL 10.8
+* Elasticsearch 6.8
